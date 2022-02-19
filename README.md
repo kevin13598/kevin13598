@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevin13598
-- 👀 I’m interested in modern technologies like .NET/Node js AND React specifically. 
+- 👀 I’m interested in modern technologies like Node js AND React specifically. 
 - 🌱 I’m currently learning more technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

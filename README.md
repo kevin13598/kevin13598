@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kevin13598
-- 👀 I’m interested in modern technologies like Node js AND React specifically. 
+- 👀 I’m interested in modern technologies and passionate/flexible to learn new technologies as well
 - 🌱 I’m currently learning more technologies
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 kevin13598/kevin13598 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
